@@ -9,7 +9,6 @@
     tools:context="jp.ac.st.asojuku.original2014001.MainActivity$PlaceholderFragment" >
 
     <Button
-        android:id="@+id/btnOK"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignRight="@+id/editText1"
